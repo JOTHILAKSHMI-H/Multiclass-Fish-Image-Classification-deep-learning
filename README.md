@@ -1,6 +1,7 @@
 # Multiclass-Fish-Image-Classification-deep-learning
 
-This project focuses on classifying fish images into multiple categories using Convolutional Neural Networks (CNNs) and transfer learning with pre-trained model
+This project focuses on classifying fish images into multiple categories using Convolutional Neural Networks (CNNs) and transfer learning with pre-trained model.
+
 Train a CNN model from scratch for multiclass fish classification and Use pre-trained models (Transfer Learning) like ResNet50, VGG16, InceptionV3, EfficientNetB0, MobileNetV2.
 
 ### Data Preprocessing and Augmentation
