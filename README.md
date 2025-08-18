@@ -26,10 +26,14 @@ This project is a deep learning solution for classifying fish images into multip
 
 #  Technologies Used
 
-Category	            Technology/Library
-Language	            Python
-Frameworks	          TensorFlow, Keras, Streamlit
+Category	              Technology/Library
+
+Language	              Python
+
+Frameworks	           TensorFlow, Keras, Streamlit
+
 Key Libraries	        OpenCV, NumPy, scikit-learn
+
 Model Architectures	  VGG16, ResNet50, MobileNetV2, InceptionV3, EfficientNetB0
 
 # Project Structure
