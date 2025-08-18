@@ -78,8 +78,8 @@ The project evaluates each model's performance to identify the best one for depl
 
   - Precision: The accuracy of positive predictions.
 
-   - Recall: The ability to find all positive samples.
+  - Recall: The ability to find all positive samples.
 
-    - F1-Score: The harmonic mean of precision and recall.
+  - F1-Score: The harmonic mean of precision and recall.
 
-     - Confusion Matrix: A table showing the performance of the model on the test data, providing a        visual summary of where the model is making errors.
+   - Confusion Matrix: A table showing the performance of the model on the test data, providing a visual summary of where the model is making errors.
